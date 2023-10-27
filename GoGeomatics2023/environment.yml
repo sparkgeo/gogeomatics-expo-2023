@@ -1,0 +1,10 @@
+name: gogeomatics-workshop
+channels:
+  - conda-forge
+dependencies:
+- pdal
+- python-pdal
+- pystac
+- jupyter
+- pip:
+  - pdal
