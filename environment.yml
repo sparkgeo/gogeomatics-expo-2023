@@ -8,3 +8,5 @@ dependencies:
 - jupyter
 - pip:
   - pdal
+  - folium
+  - pyproj
