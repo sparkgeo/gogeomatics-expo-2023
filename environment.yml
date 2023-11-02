@@ -10,3 +10,6 @@ dependencies:
   - pdal
   - folium
   - pyproj
+  - shapely
+  - pyproj 
+  - pil
